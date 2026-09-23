@@ -11,7 +11,9 @@
   <a href="https://zeebot.omg.lol" target="_blank">
     <img src="https://img.shields.io/static/v1?message=omg.lol&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
+  <a href="https://medium.com/@zeebot" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="https://signal.me/#eu/JyWtgwVbp5OLVY9o6DD4ZWA4M8a12hSm00QWGinHTA-O8vEID5BMyq7qs8sKZubS" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
 </div>
 
@@ -31,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a freelance programmer from Houston, TX.<br><br>- 🛡️I’m working as a security engineer.<br>- 📚 I'm currently learning about threat modeling, AI security, and cloud security.<br>- ⚡ In my free time I manage [my website](https://zeebot.omg.lol) and tend to [my digital garden](https://garden.zeebots.space).<br>- 📫 How to reach me: https://zeebots.space/contact<br>- 😄 Pronouns: he/they/ze</p>
+<p align="left">I'm a freelance programmer from Houston, TX.<br><br>- 🛡️I’m working as a security engineer.<br>- 📚 I'm currently learning about threat modeling, AI security, and cloud security.<br>- ⚡ In my free time I manage my website and tend to [my digital garden](https://garden.zeebots.space).<br>- 📫 How to reach me: https://zeebots.space/contact<br>- 😄 Pronouns: he/they/ze</p>
 
 ###
 
