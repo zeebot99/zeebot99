@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a freelance programmer from Houston, TX.<br><br>- 🛡️I’m working as a security engineer.<br>- 📚 I'm currently learning about threat modeling, AI security, and cloud security.<br>- ⚡ In my free time I manage my website and tend to [my digital garden](https://garden.zeebots.space).<br>- 📫 How to reach me: https://zeebots.space/contact<br>- 😄 Pronouns: he/they/ze</p>
+<p align="left">I'm a freelance programmer from Houston, TX.<br><br>- 🛡️I’m working as a security engineer.<br>- 📚 I'm currently learning about threat modeling, AI security, and cloud security.<br>- ⚡ In my free time I manage my website and tend to my digital garden.<br>- 📫 How to reach me: <a href="https://zeebots.space/contact" target="_blank"><br>- 😄 Pronouns: he/they/ze</p>
 
 ###
 
